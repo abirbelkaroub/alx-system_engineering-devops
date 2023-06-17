@@ -1,2 +1,2 @@
 #!/bin/bash
-cat etcc/{passwd,hosts}
+cat etc/{passwd,hosts}
